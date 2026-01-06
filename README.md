@@ -1,2 +1,5 @@
 # Assignment-1
-python learning 1st assignment
+  python learning journey
+#tools used
+   python
+   pycharm
